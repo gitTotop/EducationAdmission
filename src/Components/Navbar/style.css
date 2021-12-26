@@ -1,0 +1,17 @@
+.mr-auto{
+    margin-left: auto !important;
+}
+.navbar-nav .dropdown-menu {
+    text-align: right;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    box-shadow: 1px 2px 5px #ebebeb;
+}
+.nav-link{    font-weight: bold;
+    font-size: 20px;}
