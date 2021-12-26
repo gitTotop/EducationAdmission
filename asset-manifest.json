@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/EducationAdmission/static/css/main.1688f7ae.css",
+    "main.js": "/EducationAdmission/static/js/main.0386e038.js",
+    "static/js/787.f23dff9a.chunk.js": "/EducationAdmission/static/js/787.f23dff9a.chunk.js",
+    "static/media/K7A78We.jpg": "/EducationAdmission/static/media/K7A78We.355838b93126dae1b6b5.jpg",
+    "static/media/c8952Iz.jpg": "/EducationAdmission/static/media/c8952Iz.2d5e721b62b6f5e14135.jpg",
+    "static/media/banner1-bg.jpg": "/EducationAdmission/static/media/banner1-bg.73f0a19562ab2ec0e0af.jpg",
+    "index.html": "/EducationAdmission/index.html",
+    "main.1688f7ae.css.map": "/EducationAdmission/static/css/main.1688f7ae.css.map",
+    "main.0386e038.js.map": "/EducationAdmission/static/js/main.0386e038.js.map",
+    "787.f23dff9a.chunk.js.map": "/EducationAdmission/static/js/787.f23dff9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1688f7ae.css",
+    "static/js/main.0386e038.js"
+  ]
+}
